@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 25 19:30:44 2021
+Created in September 2021
 
-@author: chi20
+@author: Chirayu 
 """
 
 '''This is a gravity simulation for the n-body problem. I have used pygame for the animation and classes to make
